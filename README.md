@@ -1,2 +1,14 @@
 # directigame-lab
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
